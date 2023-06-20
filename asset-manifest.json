@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wave_Music_Player/static/css/main.361c93a3.css",
+    "main.js": "/Wave_Music_Player/static/js/main.8c78fe25.js",
+    "index.html": "/Wave_Music_Player/index.html",
+    "main.361c93a3.css.map": "/Wave_Music_Player/static/css/main.361c93a3.css.map",
+    "main.8c78fe25.js.map": "/Wave_Music_Player/static/js/main.8c78fe25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.361c93a3.css",
+    "static/js/main.8c78fe25.js"
+  ]
+}
